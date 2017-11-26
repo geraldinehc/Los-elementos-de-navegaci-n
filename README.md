@@ -17,10 +17,19 @@
 
 ![logo2](https://www.pmg.com/content/uploads/2016/12/github-logo.png)
 
-**Identificando los elementos navegacion**
+**Identificando los elementos de navegacion**
 
 ![parte1](images2/parte1.png)
 
 ![parte2](images2/parte2.png)
 
 ![parte3](images2/parte3.png)
+
+
+![logo3](https://cdn-images-1.medium.com/max/2000/1*UmDqXumMVKQzMTG9Sc-scA.png)
+
+**Identificando los elementos de navegacion**
+
+![parte1](images3/parte1.png)
+
+![parte2](images3/parte2.png)
