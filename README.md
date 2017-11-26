@@ -13,3 +13,14 @@
 ![parte5](images1/parte5.png)
 
 ![parte6](images1/parte6.png)
+
+
+![logo2](https://www.pmg.com/content/uploads/2016/12/github-logo.png)
+
+**Identificando los elementos navegacion**
+
+![parte1](images2/parte1.png)
+
+![parte2](images2/parte2.png)
+
+![parte3](images2/parte3.png)
