@@ -30,6 +30,6 @@
 
 **Identificando los elementos de navegacion**
 
-![parte1](images3/parte1.png)
+![parte1](images3/Parte1.png)
 
 ![parte2](images3/parte2.png)
